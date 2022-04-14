@@ -7,7 +7,7 @@
   "author": "Piyush",
   "license": "MIT",
   "dependencies": {
-    "async": "^2.5.0",
+    "async": "^3.2.2",
     "babel-plugin-syntax-dynamic-import": "^6.18.0",
     "babel-runtime": "6.22.0",
     "classnames": "^2.2.5",
